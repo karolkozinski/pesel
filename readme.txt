@@ -1,0 +1,1 @@
+Prosty program do sprawdzania poprawności numeru PESEL oraz wyciągania z niego informacji
